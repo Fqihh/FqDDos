@@ -17,4 +17,6 @@ git clone https://github.com/Fqihh/FqDDos
 
 cd FqDDos 
 
+python setup.py
+
 python uh.py
